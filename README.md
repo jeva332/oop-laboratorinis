@@ -1,2 +1,2 @@
 # oop-laboratorinis
-Objektinio programavimo laboratorinis drabs
+Objektinio programavimo laboratorinis darbas
